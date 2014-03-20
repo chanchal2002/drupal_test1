@@ -1,0 +1,175 @@
+Title,Class,Day of Week,Class Times,Class Code,Author uid
+[Class] Sunday / 18:00 - 19:30 / BJJ3,Sunday / 18:00 - 19:30 / BJJ3,Sunday 周日,"
+6:00pm - 7:30pm
+",BJJ3,1
+[Class] Sunday / 16:30 - 18:00 / MMA,Sunday / 16:30 - 18:00 / MMA,Sunday 周日,"
+4:30pm - 6:00pm
+",MMA,1
+[Class] Sunday / 15:00 - 16:30 / JUDO,Sunday / 15:00 - 16:30 / JUDO,Sunday 周日,"
+3:00pm - 4:30pm
+",JUDO,1
+[Class] Sunday / 14:00 - 15:00 / BJJ1,Sunday / 14:00 - 15:00 / BJJ1,Sunday 周日,"
+2:00pm - 3:00pm
+",BJJ1,1
+[Class] Sunday / 13:00 - 14:00 / WOM,Sunday / 13:00 - 14:00 / WOM,Sunday 周日,"
+1:00pm - 2:00pm
+",MMA,1
+[Class] Sunday / 12:00 - 13:00 / KID2,Sunday / 12:00 - 13:00 / KID2,Sunday 周日,"
+12:00pm - 1:00pm
+",KID2,1
+[Class] Sunday / 11:00 - 12:00 / KID1,Sunday / 11:00 - 12:00 / KID1,Sunday 周日,"
+11:00am - 12:00pm
+",KID1,1
+[Class] Sunday / 10:00 - 11:00 / FIT2,Sunday / 10:00 - 11:00 / FIT2,Sunday 周日,"
+10:00am - 11:00am
+",FIT2,1
+[Class] Saturday / 18:00 - 19:30 / BJJ3,Saturday / 18:00 - 19:30 / BJJ3,Saturday 周六,"
+6:00pm - 7:30pm
+",BJJ3,1
+[Class] Saturday / 16:30 - 18:00 / BJJ2,Saturday / 16:30 - 18:00 / BJJ2,Saturday 周六,"
+4:30pm - 6:00pm
+",BJJ2,1
+[Class] Saturday / 15:00 - 16:30 / BOX,Saturday / 15:00 - 16:30 / BOX,Saturday 周六,"
+3:00pm - 4:30pm
+",BOX,1
+[Class] Saturday / 14:00 - 15:00 / BJJ1,Saturday / 14:00 - 15:00 / BJJ1,Saturday 周六,"
+2:00pm - 3:00pm
+",BJJ1,1
+[Class] Saturday / 13:00 - 14:00 / WOM,Saturday / 13:00 - 14:00 / WOM,Saturday 周六,"
+1:00pm - 2:00pm
+",WOM,1
+[Class] Saturday / 12:00 - 13:00 / KID2,Saturday / 12:00 - 13:00 / KID2,Saturday 周六,"
+12:00pm - 1:00pm
+",KID2,1
+[Class] Saturday / 11:00 - 12:00 / KID1,Saturday / 11:00 - 12:00 / KID1,Saturday 周六,"
+11:00am - 12:00pm
+",KID1,1
+[Class] Saturday / 10:00 - 11:00 / FIT2,Saturday / 10:00 - 11:00 / FIT2,Saturday 周六,"
+10:00am - 11:00am
+",FIT2,1
+[Class] Friday / 20:00 - 21:30 / MMA,Friday / 20:00 - 21:30 / MMA,Friday 周五,"
+8:00pm - 9:30pm
+",MMA,1
+[Class] Friday / 19:00 - 20:00 / BJJ1,Friday / 19:00 - 20:00 / BJJ1,Friday 周五,"
+7:00pm - 8:00pm
+",BJJ1,1
+[Class] Friday / 18:00 - 19:00 / KID2,Friday / 18:00 - 19:00 / KID2,Friday 周五,"
+6:00pm - 7:00pm
+",KID2,1
+[Class] Friday / 17:00 - 18:00 / KID1,Friday / 17:00 - 18:00 / KID1,Friday 周五,"
+5:00pm - 6:00pm
+",KID1,1
+[Class] Friday / 13:00 - 14:00 / BJJ1,Friday / 13:00 - 14:00 / BJJ1,Friday 周五,"
+1:00pm - 2:00pm
+",BJJ1,1
+[Class] Friday / 11:30 - 13:00 / MMA,Friday / 11:30 - 13:00 / MMA,Friday 周五,"
+11:30am - 1:00pm
+",MMA,1
+[Class] Thursday / 20:00 - 21:30 / BJJ2,Thursday / 20:00 - 21:30 / BJJ2,Thursday 周四,"
+8:00pm - 9:30pm
+",BJJ2,1
+[Class] Thursday / 19:00 - 20:00 / BJJ1,Thursday / 19:00 - 20:00 / BJJ1,Thursday 周四,"
+7:00pm - 8:00pm
+",BJJ1,1
+[Class] Thursday / 18:00 - 19:00 / KID2,Thursday / 18:00 - 19:00 / KID2,Thursday 周四,"
+6:00pm - 7:00pm
+",KID2,1
+[Class] Thursday / 17:00 - 18:00 / KID1,Thursday / 17:00 - 18:00 / KID1,Thursday 周四,"
+5:00pm - 6:00pm
+",KID1,1
+[Class] Thursday / 13:00 - 14:00 / BJJ1,Thursday / 13:00 - 14:00 / BJJ1,Thursday 周四,"
+1:00pm - 2:00pm
+",BJJ1,1
+[Class] Thursday / 11:30 - 13:00 / BJJ2,Thursday / 11:30 - 13:00 / BJJ2,Thursday 周四,"
+11:30am - 1:00pm
+",BJJ2,1
+[Class] Thursday / 08:00 - 09:00 / FIT2,Thursday / 08:00 - 09:00 / FIT2,Thursday 周四,"
+8:00am - 9:00am
+",FIT2,1
+[Class] Wednesday / 20:00 - 21:30 / MMA,Wednesday / 20:00 - 21:30 / MMA,Wednesday 周三,"
+8:00pm - 9:30pm
+",MMA,1
+[Class] Wednesday / 19:00 - 20:00 / BJJ1,Wednesday / 19:00 - 20:00 / BJJ1,Wednesday 周三,"
+7:00pm - 8:00pm
+",BJJ1,1
+[Class] Wednesday / 18:00 - 19:00 / KID2,Wednesday / 18:00 - 19:00 / KID2,Wednesday 周三,"
+6:00pm - 7:00pm
+",KID2,1
+[Class] Wednesday / 17:00 - 18:00 / KID1,Wednesday / 17:00 - 18:00 / KID1,Wednesday 周三,"
+5:00pm - 6:00pm
+",KID1,1
+[Class] Wednesday / 13:00 - 14:00 / BJJ1,Wednesday / 13:00 - 14:00 / BJJ1,Wednesday 周三,"
+1:00pm - 2:00pm
+",BJJ1,1
+[Class] Wednesday / 11:30 - 13:00 / MMA,Wednesday / 11:30 - 13:00 / MMA,Wednesday 周三,"
+11:30am - 1:00pm
+",MMA,1
+[Class] Friday / 08:00 - 09:00 / FIT2,Friday / 08:00 - 09:00 / FIT2,Friday 周五,"
+8:00am - 9:00am
+",FIT2,1
+[Class] Saturday / 09:00 - 10:00 / FIT1,Saturday / 09:00 - 10:00 / FIT1,Saturday 周六,"
+9:00am - 10:00am
+",FIT1,1
+[Class] Wednesday / 08:00 - 09:00 / FIT2,Wednesday / 08:00 - 09:00 / FIT2,Wednesday 周三,"
+8:00am - 9:00am
+",FIT2,1
+[Class] Tuesday / 20:00 - 21:30 / BJJ2,Tuesday / 20:00 - 21:30 / BJJ2,Tuesday 周二,"
+8:00pm - 9:30pm
+",BJJ2,1
+[Class] Tuesday / 19:00 - 20:00 / BJJ1,Tuesday / 19:00 - 20:00 / BJJ1,Tuesday 周二,"
+7:00pm - 8:00pm
+",BJJ1,1
+[Class] Tuesday / 18:00 - 19:00 / KID2,Tuesday / 18:00 - 19:00 / KID2,Tuesday 周二,"
+6:00pm - 7:00pm
+",KID2,1
+[Class] Tuesday / 17:00 - 18:00 / KID1,Tuesday / 17:00 - 18:00 / KID1,Tuesday 周二,"
+5:00pm - 6:00pm
+",KID1,1
+[Class] Tuesday / 13:00 - 14:00 / BJJ1,Tuesday / 13:00 - 14:00 / BJJ1,Tuesday 周二,"
+1:00pm - 2:00pm
+",BJJ1,1
+[Class] Tuesday / 11:30 - 13:00 / BJJ2,Tuesday / 11:30 - 13:00 / BJJ2,Tuesday 周二,"
+11:30am - 1:00pm
+",BJJ2,1
+[Class] Tuesday / 08:00 - 09:00 / FIT2,Tuesday / 08:00 - 09:00 / FIT2,Tuesday 周二,"
+8:00am - 9:00am
+",FIT2,1
+[Class] Monday / 17:00 - 18:00 / KID1,Monday / 17:00 - 18:00 / KID1,Monday 周一,"
+5:00pm - 6:00pm
+",KID1,1
+[Class] Monday / 20:00 - 21:30 / BJJ2,Monday / 20:00 - 21:30 / BJJ2,Monday 周一,"
+8:00pm - 9:30pm
+",BJJ2,1
+[Class] Monday / 19:00 - 20:00 / BJJ1,Monday / 19:00 - 20:00 / BJJ1,Monday 周一,"
+7:00pm - 8:00pm
+",BJJ1,1
+[Class] Monday / 18:00 - 19:00 / KID2,Monday / 18:00 - 19:00 / KID2,Monday 周一,"
+6:00pm - 7:00pm
+",KID2,1
+[Class] Monday / 13:00 - 14:00 / BJJ1,Monday / 13:00 - 14:00 / BJJ1,Monday 周一,"
+1:00pm - 2:00pm
+",BJJ1,1
+[Class] Monday / 11:30 - 13:00 / BJJ2,Monday / 11:30 - 13:00 / BJJ2,Monday 周一,"
+11:30am - 1:00pm
+",BJJ2,1
+[Class] Sunday / 09:00 - 10:00 / FIT1,Sunday / 09:00 - 10:00 / FIT1,Sunday 周日,"
+9:00am - 10:00am
+",FIT1,1
+[Class] Monday / 08:00 - 09:00 / FIT2,Monday / 08:00 - 09:00 / FIT2,Monday 周一,"
+8:00am - 9:00am
+",FIT2,1
+[Class] Thursday / 07:00 - 08:00 / FIT1,Thursday / 07:00 - 08:00 / FIT1,Thursday 周四,"
+7:00am - 8:00am
+",FIT1,1
+[Class] Tuesday / 07:00 - 08:00 / FIT1,Tuesday / 07:00 - 08:00 / FIT1,Tuesday 周二,"
+7:00am - 8:00am
+",FIT1,1
+[Class] Wednesday / 07:00 - 08:00 / FIT1,Wednesday / 07:00 - 08:00 / FIT1,Wednesday 周三,"
+7:00am - 8:00am
+",FIT1,1
+[Class] Friday / 07:00 - 08:00 / FIT1,Friday / 07:00 - 08:00 / FIT1,Friday 周五,"
+7:00am - 8:00am
+",FIT1,1
+[Class] Monday / 07:00 - 08:00 / FIT1,Monday / 07:00 - 08:00 / FIT1,Monday 周一,"
+7:00am - 8:00am
+",FIT1,1

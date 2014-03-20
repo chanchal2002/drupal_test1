@@ -1,0 +1,11 @@
+name = Node Fields Block
+description = Show specific node fields of the current node in a block.
+package = Block 
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2014-02-23
+version = "7.x-1.0"
+core = "7.x"
+project = "node_fields_block"
+datestamp = "1393139610"
+

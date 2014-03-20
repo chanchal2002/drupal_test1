@@ -1,0 +1,51 @@
+div#block-registration-block-registration-block .form-text {
+  display: block;
+  width: 150px;
+  color: #909090;
+}
+
+.block-registration-block {
+background-image:url('../image/image2.jpg');
+background-repeat:no-repeat;
+height: 280px;
+padding-bottom:.5em;
+width: 350px;
+}
+
+.block-registration-block .content {
+    margin-top: 0px;
+}
+
+#user-register-form {
+    padding-left: 15px;
+    padding-top: 90px;
+    width: 200px;
+    
+}
+
+#form-actions{
+padding-top:0px;
+}
+
+#edit-actions input.form-submit, a.button {
+    border-radius: 5px;
+    padding: 5px 5px;
+    border-color: #c8c8c8;
+    background: forestgreen;
+    color: white;
+    position: relative;
+    top: -15px;
+    font-size: 15px;
+    border: none;
+}
+
+
+#block-registration-block-registration-block .form-item {
+    margin-bottom: 1em;
+    margin-top: 2px;
+    width: 160px;
+}
+
+#block-registration-block-registration-block .form-wrapper {
+  width 160px;
+}

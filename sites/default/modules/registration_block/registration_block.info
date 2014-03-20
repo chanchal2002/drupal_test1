@@ -1,0 +1,11 @@
+name = Registration Block
+description = This is Customs Registration Block. Use This in any Region of the site as a Blocks.
+package = Registration Block
+core = 7.x
+
+files[] = registration_block.module
+version = "7.x"
+project = "registration_block"
+
+
+

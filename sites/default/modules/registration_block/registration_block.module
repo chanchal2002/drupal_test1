@@ -1,0 +1,75 @@
+<?php
+
+/**
+ * @file
+ * Main file of Form Block module.
+ */
+
+/**
+ * Implements hook_block_info().
+ */
+
+function registration_block_block_info() {
+  $blocks = array();
+
+  $blocks['registration_block'] = array(
+    'info' => t('Customs Registration Block'),
+    'cache' => DRUPAL_NO_CACHE, 	
+  );
+
+  return $blocks;
+}
+
+
+/**
+ * Implements hook_block_view().
+ */
+function registration_block_block_view($delta = '') {
+
+ global $user; // Don't display the form to logged in users
+ if (!$user->uid && variable_get('user_register', 1)) {
+	$block['content']['#attached']['css'][] = drupal_get_path('module', 'registration_block') . '/css/registration_block.css';
+	switch($delta) {
+    	case 'registration_block':    
+   	$block['subject'] = t(''); // Most forms don't have a subject 
+    	$block['content']['form'] = drupal_get_form('user_register_form');
+   	break;  
+      } 
+	return $block;
+   }
+ }
+
+
+/**
+ * Implements hook_form_user_register_form_alter().
+ */
+
+function registration_block_form_user_register_form_alter(&$form, $form_state, $form_id) {
+
+  if (!($form_id == 'user_register_form')) {
+        return;
+  }
+
+
+
+  $form['account']['name']['#title'] = t('');
+  $form['account']['name']['#required'] = FALSE;
+  $form['account']['name']['#default_value'] = t('姓名');
+  $form['account']['name']['#attributes'] = array('onblur' => "if (this.value == '') {this.value = '姓名'}", 'onfocus' => "if (this.value == '姓名') {this.value = ''}", );	
+ // $form['account']['name']['#attributes'] = array('placeholder' => t('Username'));
+  $form['account']['name']['#description'] = t('');
+
+  $form['account']['mail']['#title'] = t('');
+  $form['account']['mail']['#required'] = FALSE;
+  $form['account']['mail']['#default_value'] = t('邮件');
+  $form['account']['mail']['#attributes'] = array('onblur' => "if (this.value == '') {this.value = '邮件'}", 'onfocus' => "if (this.value == '邮件') {this.value = ''}", );	
+ // $form['account']['mail']['#attributes'] = array('placeholder' => t('Email'));  
+  $form['account']['mail']['#description'] = t('');
+
+//  $form['actions']['submit']['#value'] = t('免费注册');
+ // $form['actions']['submit']['#value'] = t('Submit');
+ 
+}
+
+
+
