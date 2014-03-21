@@ -566,4 +566,12 @@ $conf['404_fast_html'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
  */
 # $conf['allow_authorize_operations'] = FALSE;
 
-ini_set('memory_limit', '128M');
+ini_set('memory_limit', '256M');
+
+/*
+$conf['language_default'] = (object) array(
+  'language' => 'cn', 'name' => 'Chinese, Simplified', 'native' => '简体中文',
+  'direction' => 0, 'enabled' => 1, 'plurals' => 2, 'formula' => '($n!=1)',
+  'domain' => '', 'prefix' => 'cn', 'weight' => 0, 'javascript' => 'HvhQ_DTjOowFwCgaQ3329cJ1Kmr04Lz5AUqGuWdK5eg'
+);
+*/
